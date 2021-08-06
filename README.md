@@ -1,9 +1,9 @@
 # BasicHive
 The app uses Hive to do CRUD(Create Read Update Delete) operations. You can insert, update and delete data, the data is persisted in the app and no internet is required to do so.
 
-<img src = "screenshots/homepage.jpeg" height="550" > <img src = "screenshots/addrecord.jpeg" height="550" >
+<img src = "screenshots/homepage.jpeg" height="550" > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src = "screenshots/addrecord.jpeg" height="550" >
 
-<img src = "screenshots/editrecord.jpeg" height="550" >  <img src = "screenshots/deleterecord.jpeg" height="550" >
+<img src = "screenshots/editrecord.jpeg" height="550" > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src = "screenshots/deleterecord.jpeg" height="550" >
 
 ## Getting Started
 You can build apps with Flutter using any text editor combined with our command-line tools. However, I recommend using one of Flutter's editor plugins for an even better experience. These plugins provide you with code completion, syntax highlighting, widget editing assists, run & debug support, and more.
